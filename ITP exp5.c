@@ -23,7 +23,6 @@ int main()
     printf("=================================\n");
     do
     {
-
         printf("Choose from menu what you want to do: \n");
         printf("1. Addition of two matrices. \n");
         printf("2. Subtraction of two matrices. \n");
@@ -46,7 +45,6 @@ int main()
                 }
                 printf("\n");
             }
-
             break;
         case 2:
             for (int i = 0; i < 3; i++)
@@ -59,7 +57,6 @@ int main()
                 }
                 printf("\n");
             }
-
             break;
         case 3:
             for (i = 0; i < 3; i++)
@@ -93,7 +90,6 @@ int main()
                 }
                 printf("\n");
             }
-
             break;
         case 4:
             for (int i = 0; i < 3; i++)
@@ -106,7 +102,6 @@ int main()
                 }
                 printf("\n");
             }
-
             break;
     case 5:
             for (int i = 0; i < 3; i++)
@@ -129,7 +124,6 @@ int main()
                 }
                 printf("\n");
             }
-
             break;
         }
         printf("====================================\n");
